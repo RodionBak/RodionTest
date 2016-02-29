@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A0E4BA17-B6BE-A7A5-0D47-10C9B7781542}") = "TestRodion", "Assembly-CSharp.csproj", "{14C7B20D-FEA8-58DE-FA58-DCA547837520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C7B20D-FEA8-58DE-FA58-DCA547837520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C7B20D-FEA8-58DE-FA58-DCA547837520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C7B20D-FEA8-58DE-FA58-DCA547837520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C7B20D-FEA8-58DE-FA58-DCA547837520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
